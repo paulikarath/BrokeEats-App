@@ -2,18 +2,18 @@
 import { StyleSheet, ViewStyle, TextStyle } from 'react-native';
 
 export const colors = {
-  primary: '#FFD700',      // Yellow accent for primary actions
-  secondary: '#32CD32',    // Green for secondary actions
-  accent: '#00CED1',       // Light blue for highlights
-  background: '#02182f',   // Dark navy blue background
-  backgroundAlt: '#1E40AF', // Slightly lighter blue for cards
+  primary: '#dec537ff',      // Yellow accent for primary actions
+  secondary: '#72b672ff',    // Green for secondary actions
+  accent: '#62b0b2ff',       // Light blue for highlights
+  background: '#06172aff',   // Dark navy blue background
+  backgroundAlt: '#7387c9ff', // Slightly lighter blue for cards
   text: '#FFFFFF',         // White text for readability
   textLight: '#E5E7EB',    // Light gray for secondary text
-  success: '#32CD32',      // Green for success states
+  success: '#63b663ff',      // Green for success states
   warning: '#FFD700',      // Yellow for warnings
-  error: '#EF4444',        // Red for errors
+  error: '#b45a5aff',        // Red for errors
   border: '#3B82F6',       // Blue border color
-  card: '#1E40AF',         // Dark blue for cards
+  card: '#3d57acff',         // Dark blue for cards
   shadow: 'rgba(0, 0, 0, 0.3)',
 };
 
